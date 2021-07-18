@@ -1,0 +1,28 @@
+WJ1145	40	8
+Tom                 	Harris              	403-100-0000        	6A	10000               
+Tim                 	Moore               	403-020-0000        	5B	10001               
+Jim                 	Li                  	403-003-0000        	23C	10002               
+Ari                 	Blair               	403-334-2211        	39H	10003               
+Demi Lee            	Campbell            	416-457-0434        	6F	10004               
+Mitchell            	Morales             	705-699-6121        	32A	10005               
+Domonic             	Rosas               	780-665-7478        	32C	10006               
+Uwais               	Humphrey            	604-932-7699        	20H	10007               
+Lacie-Mae           	Castaneda           	519-335-4205        	13D	10008               
+Leandro             	Shepard             	306-373-1856        	30C	10009               
+Trent               	Sparks              	416-504-7927        	26B	10010               
+Klara               	Mcdonald            	416-990-9896        	22G	10011               
+Benas               	Montgomery          	613-594-8570        	4H	10012               
+Conner              	O'Neill             	450-889-2820        	33D	10013               
+Norma               	Bentley             	514-968-3870        	29F	10014               
+Tyler Jay           	Harrington          	306-455-4897        	25G	10015               
+Sibonakaliso Amand  	Partha Van Aar le   	604-456-8899        	9G	10016               
+Kevin Elita Emmy    	Sneijers            	780-747-3771        	31F	10017               
+Beau                	Fischer             	234-853-0934        	39G	10018               
+Kirk                	Watkins             	155-398-1413        	9B	10019               
+Erich               	Washington          	876-198-8302        	13B	10020               
+Xanthus             	Franklin            	753-901-9751        	1A	10021               
+Nicholas            	Hewitt              	292-344-6984        	35H	10022               
+Paloma Rosa         	Norris              	594-767-6245        	19B	10023               
+Raymond             	Terry               	608-936-2834        	37D	10024               
+Stephen             	Reilly              	402-844-4599        	45H	10025               
+Arden               	Garner              	437-874-3961        	41C	10026               
