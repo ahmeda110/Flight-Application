@@ -45,7 +45,6 @@ void display_header() {
   cout << "Version: 1.0" << endl;
   cout << "Term Project- Flight Managment Program in C++" << endl;
   cout << "Produced by: Ahmed Abbas" << endl;
-
 }
 
 int main() {
