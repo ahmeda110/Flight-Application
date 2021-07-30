@@ -5,22 +5,22 @@ using namespace std;
 #ifndef Seat_Included
 #define Seat_Included
 
-class Seat{
+class Seat {
 
-	public:
+  public:
 
-	Seat();
-	Seat(int seatN,char seatL);
+    Seat();
+  Seat(int seatN, char seatL);
 
-	void setSeatLetter(char seatL);
-	void setSeatNumber(int seatN);
-	char getSeatLetter() const;
-	int getSeatNumber () const;
-	
+  void setSeatLetter(char seatL);
+  void setSeatNumber(int seatN);
+  char getSeatLetter() const;
+  int getSeatNumber() const;
 
-	private:
+  private:
 
-	int seatNumber;
-	char seatLetter;
-	};
+    int seatNumber;
+  char seatLetter;
+};
+
 #endif
